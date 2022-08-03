@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: whitesmoke;
+}
+
+h2 {
+    text-align: center;
+    color: whitesmoke;
+}
+
+h3 {
+    text-align: center;
+    color: whitesmoke;
+}
+
+h4 {
+    text-align: center;
+    color: whitesmoke;
+}
+
+p {
+    text-align: center;
+    color: whitesmoke;
+}
+
+ul {
+    text-align: justify;
+    color: whitesmoke;
+}
+
+.Image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+}
